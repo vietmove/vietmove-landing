@@ -1,0 +1,26 @@
+{
+  "eyebrowVi": "VietMove · Hệ sinh thái thể thao",
+  "eyebrowEn": "VietMove · Sports ecosystem",
+  "headlineLine1Vi": "Một phong trào",
+  "headlineLine1En": "A movement",
+  "headlineWordVi": "khởi nguồn",
+  "headlineWordEn": "built",
+  "headlineLine2Vi": "từ Việt Nam.",
+  "headlineLine2En": "from Vietnam.",
+  "leadVi": "VietMove là đội ngũ làm ra những sản phẩm thể thao của người Việt. Khởi đầu là bóng đá phủi với VietKick, và sẽ còn đi xa hơn — sang nhiều môn thể thao khác.",
+  "leadEn": "VietMove is the team building made-in-Vietnam sports products. We start with grassroots football through VietKick, and we keep moving — into more sports over time.",
+  "ctaPrimaryVi": "Khám phá hệ sinh thái",
+  "ctaPrimaryEn": "Explore the ecosystem",
+  "ctaSecondaryVi": "Chuyện cái tên",
+  "ctaSecondaryEn": "What the name means",
+  "meta": [
+    { "vi": "Làm tại Việt Nam", "en": "Built in Vietnam" },
+    { "vi": "Của anh em, vì anh em", "en": "For the community" },
+    { "vi": "Không ngừng đi lên", "en": "Always moving" }
+  ],
+  "chips": [
+    { "label": "VietKick", "tagVi": "Bóng đá · đang chạy", "tagEn": "Football · live", "state": "live" },
+    { "label": "Next sport", "tagVi": "Đang ấp ủ", "tagEn": "In the works", "state": "soon" },
+    { "label": "+ more", "tagVi": "Sắp tới", "tagEn": "Coming", "state": "future" }
+  ]
+}

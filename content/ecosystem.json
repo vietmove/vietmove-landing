@@ -1,0 +1,54 @@
+{
+  "eyebrowVi": "Hệ sinh thái",
+  "eyebrowEn": "The ecosystem",
+  "headingVi": "Một phong trào,\nnhiều môn chơi.",
+  "headingEn": "One movement,\nmany sports.",
+  "leadVi": "VietKick là sản phẩm đầu tiên của VietMove. Nó cho thấy một điều: công cụ tốt khiến việc chơi thể thao nhẹ nhàng hơn. Sắp tới, chúng tôi mang tinh thần ấy sang những môn khác.",
+  "leadEn": "VietKick is VietMove's first product. It proves a simple idea: better tools make it easier to play. Next, we carry that spirit into more sports.",
+  "products": [
+    {
+      "name": "VietKick",
+      "nameVi": "VietKick",
+      "nameEn": "VietKick",
+      "sportVi": "Bóng đá phủi",
+      "sportEn": "Grassroots football",
+      "state": "live",
+      "stateVi": "Đang chạy",
+      "stateEn": "Live now",
+      "bodyVi": "App quản lý đội bóng: lịch trận, điểm danh, quỹ đội và thống kê cầu thủ — gọn trong điện thoại.",
+      "bodyEn": "The team-management app: schedules, RSVPs, team funds and player stats — all in your pocket.",
+      "url": "https://kick.vietmove.app",
+      "linkVi": "Khám phá VietKick",
+      "linkEn": "Visit VietKick",
+      "features": [
+        { "vi": "Lịch trận & điểm danh", "en": "Matches & RSVP" },
+        { "vi": "Quỹ đội minh bạch", "en": "Transparent funds" },
+        { "vi": "Thống kê cầu thủ", "en": "Player stats" }
+      ]
+    },
+    {
+      "name": "Next sport",
+      "nameVi": "Môn tiếp theo",
+      "nameEn": "Next sport",
+      "sportVi": "Đang tìm hiểu",
+      "sportEn": "Under research",
+      "state": "soon",
+      "stateVi": "Đang ấp ủ",
+      "stateEn": "In the works",
+      "bodyVi": "Chúng tôi đang lắng nghe cộng đồng để chọn môn thể thao tiếp theo xứng đáng có một công cụ tử tế.",
+      "bodyEn": "We are listening to the community to pick the next sport that deserves a proper tool."
+    },
+    {
+      "name": "And beyond",
+      "nameVi": "Và hơn nữa",
+      "nameEn": "And beyond",
+      "sportVi": "Tương lai",
+      "sportEn": "Future",
+      "state": "future",
+      "stateVi": "Sắp tới",
+      "stateEn": "Coming",
+      "bodyVi": "Mỗi môn một sản phẩm, chung một hệ sinh thái và một tinh thần: giúp người Việt vận động nhiều hơn.",
+      "bodyEn": "One product per sport, one shared ecosystem and one spirit: helping Vietnam move more."
+    }
+  ]
+}

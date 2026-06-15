@@ -1,0 +1,34 @@
+{
+  "section": {
+    "headingVi": "Câu hỏi thường gặp",
+    "headingEn": "Frequently asked",
+    "email": "hotro@vietmove.app"
+  },
+  "items": [
+    {
+      "questionVi": "VietMove và VietKick khác nhau thế nào?",
+      "questionEn": "What is the difference between VietMove and VietKick?",
+      "answerVi": "VietMove là đội ngũ và hệ sinh thái đứng sau các sản phẩm thể thao. VietKick là sản phẩm đầu tiên — app quản lý đội bóng phủi. Sắp tới VietMove sẽ có thêm sản phẩm cho những môn khác.",
+      "answerEn": "VietMove is the team and ecosystem behind the sports products. VietKick is the first product — an app for managing grassroots football teams. Over time, VietMove will add products for other sports.",
+      "defaultOpen": true
+    },
+    {
+      "questionVi": "Tên VietMove có ý nghĩa gì?",
+      "questionEn": "What does the name VietMove mean?",
+      "answerVi": "Viet là Việt Nam. Move là thể thao và vận động — đồng thời là tinh thần không ngừng đi lên, dám thay đổi và luôn hành động. Slogan của chúng tôi: A movement built from Vietnam.",
+      "answerEn": "Viet stands for Vietnam. Move is about sport and motion — and also about a continuous step upward, change, and action. Our slogan: A movement built from Vietnam."
+    },
+    {
+      "questionVi": "Sắp tới VietMove sẽ làm môn thể thao nào?",
+      "questionEn": "Which sport is VietMove building next?",
+      "answerVi": "Chúng tôi đang lắng nghe cộng đồng để chọn môn tiếp theo xứng đáng có một công cụ tử tế. Nếu bạn có ý tưởng, cứ nhắn cho chúng tôi.",
+      "answerEn": "We are listening to the community to decide the next sport that deserves a proper tool. If you have ideas, reach out to us."
+    },
+    {
+      "questionVi": "Làm sao để tham gia hoặc hợp tác với VietMove?",
+      "questionEn": "How can I join or partner with VietMove?",
+      "answerVi": "Dù bạn là người chơi, đội trưởng, lập trình viên hay đối tác — cứ gửi email cho chúng tôi. Phong trào này cần thêm người chung tay.",
+      "answerEn": "Whether you are a player, a captain, a developer or a partner — just email us. This movement needs more people pushing it forward."
+    }
+  ]
+}

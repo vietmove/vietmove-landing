@@ -1,0 +1,10 @@
+{
+  "headingVi": "Phong trào qua những con số",
+  "headingEn": "The movement in numbers",
+  "stats": [
+    { "n": "1", "vi": "Sản phẩm đang chạy", "en": "Product live" },
+    { "n": "∞", "vi": "Môn thể thao phía trước", "en": "Sports ahead" },
+    { "n": "100%", "vi": "Khởi nguồn từ Việt Nam", "en": "Built in Vietnam" },
+    { "n": "2026", "vi": "Năm bắt đầu hành trình", "en": "Year it started" }
+  ]
+}

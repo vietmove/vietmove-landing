@@ -1,0 +1,31 @@
+{
+  "eyebrowVi": "Giá trị",
+  "eyebrowEn": "Principles",
+  "headingVi": "Với chúng tôi, \"Move\" nghĩa là gì",
+  "headingEn": "What \"Move\" means to us",
+  "leadVi": "Ba điều giữ cho phong trào này luôn tiến về phía trước.",
+  "leadEn": "Three things that keep this movement going forward.",
+  "items": [
+    {
+      "n": "01",
+      "titleVi": "Không ngừng đi lên",
+      "titleEn": "Always upward",
+      "bodyVi": "Không đứng yên. Mỗi phiên bản, mỗi mùa giải, mỗi sản phẩm đều phải tốt hơn cái trước.",
+      "bodyEn": "Never standing still. Every release, every season, every product is better than the one before."
+    },
+    {
+      "n": "02",
+      "titleVi": "Hành động trước",
+      "titleEn": "Action first",
+      "bodyVi": "Ít nói, làm nhiều. Ra sân, ra mắt, lắng nghe rồi cải thiện — thay vì chờ mọi thứ hoàn hảo.",
+      "bodyEn": "Less talk, more doing. Ship it, play it, listen, improve — instead of waiting for perfect."
+    },
+    {
+      "n": "03",
+      "titleVi": "Sẵn sàng thay đổi",
+      "titleEn": "Ready to change",
+      "bodyVi": "Thể thao đổi thay, cộng đồng đổi thay, chúng tôi cũng vậy — luôn linh hoạt, không ôm khư khư lối cũ.",
+      "bodyEn": "Sport changes, the community changes, so do we — staying flexible, never clinging to the old way."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "links": [
+    { "hash": "#manifesto", "vi": "Ý nghĩa", "en": "Manifesto" },
+    { "hash": "#ecosystem", "vi": "Hệ sinh thái", "en": "Ecosystem" },
+    { "hash": "#principles", "vi": "Giá trị", "en": "Principles" },
+    { "hash": "#faq", "vi": "FAQ", "en": "FAQ" }
+  ],
+  "cta": { "vi": "Tham gia", "en": "Join us" }
+}
