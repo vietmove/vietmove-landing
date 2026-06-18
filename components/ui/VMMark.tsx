@@ -23,11 +23,11 @@ export function VMMark({ variant = 'dark', className }: VMMarkProps) {
       aria-hidden="true"
     >
       <rect width="100" height="100" rx="24" fill={bg} />
-      {/* three rising chevrons — back two in the mark color, leading one in accent */}
-      <g fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth="9">
-        <path d="M28 70 L50 50 L72 70" stroke={mark} opacity="0.3" />
-        <path d="M28 58 L50 38 L72 58" stroke={mark} opacity="0.6" />
-        <path d="M28 46 L50 26 L72 46" stroke={accent} />
+      {/* three rising chevrons nested tightly — back two in the mark color, leading one in accent */}
+      <g fill="none" strokeLinecap="round" strokeLinejoin="round" strokeWidth="9.5">
+        <path d="M28 70 L50 50 L72 70" stroke={mark} opacity="0.28" />
+        <path d="M28 60 L50 40 L72 60" stroke={mark} opacity="0.58" />
+        <path d="M28 50 L50 30 L72 50" stroke={accent} />
       </g>
     </svg>
   )
